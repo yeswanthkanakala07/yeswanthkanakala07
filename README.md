@@ -1,4 +1,4 @@
-👋 Hello, I'm [Yaswanth Kanakala].<br>
+👋 Hello, I'm **Yaswanth Kanakala**<br>
 🌟 Coding enthusiast by day, coffee connoisseur by night ☕<br>
 🚀 Student | Full Stack Developer | Open Source Enthusiast | Free Lancer<br>
 🌐 [https://www.linkedin.com/in/yaswanth-kanakala-530a8b209<br>
