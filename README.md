@@ -1,5 +1,5 @@
 👋 Hello, I'm **Yaswanth Kanakala**<br>
-🌟 Coding enthusiast by day, coffee connoisseur by night ☕<br>
+🌟 Coding enthusiast | Discipline Constistency Growth ⚡️<br>
 🚀 Student | Full Stack Developer | Open Source Enthusiast | Free Lancer<br>
 🌐 https://www.linkedin.com/in/yaswanth-kanakala-530a8b209<br>
 📫 Reach me at [yeswanth2001kanakala@gmail.com]<br>
