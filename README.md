@@ -8,5 +8,6 @@
 💡 Interested in AI| PYTHON | JAVA |MACHINE LEARNING |REACT.<br>
 🌟 I'm always eager to explore new technologies and solve interesting challenges.<br>
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=yeswanthkanakala07&theme=dark&hide_border=false)<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeswanthkanakala07)](https://git.io/streak-stats)
 
