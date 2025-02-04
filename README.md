@@ -9,7 +9,6 @@
 🌟 I'm always eager to explore new technologies and solve interesting challenges.<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats-brywbubql.vercel.app?user=yeswanthkanakala07&theme=transparent)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yadheedhya06&theme=dark&hide_border=false)
 
 
 
