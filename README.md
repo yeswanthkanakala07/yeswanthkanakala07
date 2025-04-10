@@ -9,9 +9,6 @@
 🌟 Coding enthusiast by day, coffee connoisseur by night <br>
 💡 Interested in AI| PYTHON | JAVA |MACHINE LEARNING |REACT.<br>
 <!---🌟 I'm always eager to explore new technologies and solve interesting challenges.<br> --->
-# 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats-two-sooty.vercel.app?user=yeswanthkanakala07&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
-
 ## 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,5 +27,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00FF9F?style=for-the-badge&logo=langchain&logoColor=black)
+
+
+# 📊 GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats-two-sooty.vercel.app?user=yeswanthkanakala07&theme=midnight-purple&mode=weekly)](https://git.io/streak-stats)
 
 
